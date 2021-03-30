@@ -1,2 +1,2 @@
 # FYI
-:mag: Find Ya Interest: study partner finder 
+:mag: Find Ya Interest: a study partner finder 

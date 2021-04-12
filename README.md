@@ -1,4 +1,6 @@
-# FYI
+# FYI  
+:pushpin: Go to [New Repository](https://github.com/Jhector10/FindYaInterest)
+
 :mag: Find Ya Interest: a study partner finder 
 
 ### Team Members:
